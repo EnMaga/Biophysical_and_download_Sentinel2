@@ -1,0 +1,8 @@
+geopandas
+shapely
+sentinelhub
+datetime
+pathlib
+typing-extensions
+requests
+xarray
