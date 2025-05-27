@@ -1,5 +1,5 @@
 """
-python /home/enrico/s2_cuts/s2_cuts/LAI_CCC_CWC_computation.py \
+python /path/to/LAI_CCC_CWC_computation.py \
   --geojson your/path/tofile.geojson \
   --start_date 2019-01-01 \
   --end_date   2019-02-01 \
